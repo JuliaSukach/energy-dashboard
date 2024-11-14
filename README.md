@@ -2,6 +2,10 @@
 
 This project is a dashboard for visualizing energy data. Users can toggle between daily, weekly, and monthly views, and view energy KPIs and charts for the selected period.
 
+![demo (1)](https://github.com/user-attachments/assets/e585dbb2-d63b-4893-891a-5c7a3c398f96)
+
+
+
 ## Features
 - **Interval Toggle**: Switch between daily, weekly, and monthly intervals.
 - **Interactive Chart**: Displays energy production and consumption data, with tooltips for detailed information.
