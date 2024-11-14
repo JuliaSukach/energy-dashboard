@@ -2,8 +2,7 @@
 
 This project is a dashboard for visualizing energy data. Users can toggle between daily, weekly, and monthly views, and view energy KPIs and charts for the selected period.
 
-![demo (1)](https://github.com/user-attachments/assets/e585dbb2-d63b-4893-891a-5c7a3c398f96)
-
+![demo](https://github.com/user-attachments/assets/bb7f0f76-fe05-4e76-a37c-b9d3b29420aa)
 
 
 ## Features
